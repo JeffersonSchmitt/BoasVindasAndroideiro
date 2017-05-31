@@ -35,3 +35,10 @@ Licença
 ========
 
 [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+
+Preview
+=======
+![imagem](http://i.imgur.com/FJcu77G.jpg)
+
