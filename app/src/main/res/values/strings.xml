@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">BoasVindasAndroideiro</string>
+  <string name="bemvindo">Seja bem-vindo Androideiro</string>
+  <string name="bora_programar">Bora Programar</string>
+  <string name="padrao_fonte">sans-serif</string>
+</resources>
