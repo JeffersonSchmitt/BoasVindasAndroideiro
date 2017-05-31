@@ -5,7 +5,7 @@ Aplicativo simples com conceitos básicos de interface.
 
 Pré-requisitos
 --------------
-- Android SDK 23 ou mais novo
+- Android SDK 19 ou mais novo
 - Build Tools version 23.0.2
 - Android Support AppCompat 23.4.0
 
